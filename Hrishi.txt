@@ -1,9 +1,14 @@
 <h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat hrishiatwork.txt </h3>
-<h2>Hi, I'm Hrishikesh Rane.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<h2>Hi, I'm Hrishikesh Rane.
 <p>working professional at <a href = "https://www.xoriant.com/"> Xoriant Solution Pune.</a> <!-- slightdelayhere--><!-- longlongcomment --> 
  <br>Working as Software Engineer.
  <br>I am DevOps professional with experience in CI/CD, Server Maintainance and Deployment 
- <br>In weekends I try to learn new technologies and try to find a solution for a problem using my software skills. </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>I love doing competitive programming. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, <a href = "https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><p>My other interests are Machine Learning and Web Development. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --><p> Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> </p> <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> </h2>
+ <br>In weekends I try to learn new technologies and try to find a solution for a problem using my software skills. </p>
+ <p>I love doing competitive programming. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, <a href = "https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>.</p><p>My other interests are Machine Learning and Web Development. </p>
+ <p> Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> </p> 
+ 
+ <p>Portfolio - <a href = "https://rphrishi4.github.io/Portfolio/">Click here</a></p>
+ </h2>
 
 
 <h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
