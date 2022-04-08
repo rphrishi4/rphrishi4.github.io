@@ -1,0 +1,21 @@
+<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat hrishiatwork.txt </h3>
+<h2>Hi, I'm Hrishikesh Rane.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>working professional at <a href = "https://www.xoriant.com/"> Xoriant Solution Pune.</a> <!-- slightdelayhere--><!-- longlongcomment --> 
+ <br>Working as Software Engineer.
+ <br>I am DevOps professional with experience in CI/CD, Server Maintainance and Deployment 
+ <br>In weekends I try to learn new technologies and try to find a solution for a problem using my software skills. </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>I love doing competitive programming. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, <a href = "https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><p>My other interests are Machine Learning and Web Development. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --><p> Resume - <a href = "https://drive.google.com/file/d/1-Be_Qtkig2KVJcT-1ML9q0WHF_BTG3MG/view?usp=sharing">Click here</a> </p> <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> </h2>
+
+
+<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2>Email addresses : <a href="mailto:hrishiatwork@gmail.com">hrishiatwork@gmail.com</a>; 
+
+Phone Number : <a href = "tel: +917020098529"> +91-7020098529 </a>
+
+Linked-In : <a href = "https://www.linkedin.com/in/hrishikesh-rane/"> Hrishikesh Rane</a> <br/> </h2>
+
+<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span></h3>
+<h1> I always wanted to become a coder during my school days :P </h1>
+<h1> And here I am working and trying to solve real world problems. </h1>
+
+<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
+<h1>Everyone is a loser till they decide to do something about it. </h1>
