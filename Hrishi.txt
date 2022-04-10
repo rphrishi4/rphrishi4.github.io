@@ -1,29 +1,25 @@
-<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat hrishiatwork.txt </h3>
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat About_Hrishikesh.txt </h3>
 <h2>Hi, I'm Hrishikesh Rane.</h2>
 <h2>
- <p>working professional at <a href = "https://www.xoriant.com/"> Xoriant Solution Pune.</a>
- <br>Working as Software Engineer.
- <br>I am DevOps professional with experience in CI/CD, Server Maintainance and Deployment.
- <br>In weekends I try to learn new technologies and try to find a solution for a problem using my software skills. </p>
- <p>I love doing competitive programming. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, 
- <a href = "https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>.</p>
- <p>My other interests are Developing Testing Automating and Deploying with DevOps. </p>
- <p> Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> </p> 
- 
- <p>Portfolio - <a href = "https://rphrishi4.github.io/Portfolio/">Click here</a></p>
- </h2>
+<p>Working professional at <a href = "https://www.xoriant.com/"> Xoriant Solution Pune as Software Engineer.</a>
+<br>I am DevOps Engineer with experience in CI/CD, Server Maintainance, Automation and Deployment.
+<br>On weekends I try to learn new technologies and work on problems to find solutions using my software skills.</p>
+<p>In mean time I brush up my competitive programming skills. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, <a href="https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>
+<br>My other interests are Problem Solving, Developing, Testing, Automating and Scaling with DevOps. </p> 
+<p> Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> 
+<br>Portfolio - <a href = "https://rphrishi4.github.io/Portfolio/">Click here</a></p>
+</h2>
 
-
-<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
 <h2>Email addresses : <a href="mailto:hrishiatwork@gmail.com">hrishiatwork@gmail.com</a>; 
-
 Phone Number : <a href = "tel: +917020098529"> +91-7020098529 </a>
-
 Linked-In Profile : <a href = "https://www.linkedin.com/in/hrishikesh-rane/"> Hrishikesh Rane</a> <br/> </h2>
 
-<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span></h3>
-<h1> I always wanted to become a code and develop something during my school days :P </h1>
-<h1> And here I am working and trying to solve real world problems. </h1>
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span></h2>
+<h2>More About me</h2>
+<h2> I always wanted to code and develop something during my school days :P</h2>
+<h2> And here I am working and trying to solve real world problems.</h2>
+<h2>Till date I have solved small problems which I faced and ready for the next big thing.</h2>
 
-<h3><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
-<h1>Everyone is a loser till they decide to do something about it. </h1>
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h2>
+<h2>Everyone is a loser till they decide to do something about it. </h2>
