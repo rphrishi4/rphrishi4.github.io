@@ -19,7 +19,7 @@ Follwing are the certification I comepleted
 <h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
 <h2>Email addresses : <a href="mailto:hrishiatwork@gmail.com">hrishiatwork@gmail.com</a>; 
 Phone Number : <a href = "tel: +917020098529"> +91-7020098529 </a>
-Linked-In Profile : <a href = "https://www.linkedin.com/in/hrishikesh-rane/"> Hrishikesh Rane</a> <br/> </h2>
+Linked-In Profile : <a href = "https://www.linkedin.com/in/hrishikesh-rane/"> Hrishikesh Rane</a> <br/> </h2> 
 
 <h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span></h2>
 <h2>More About me</h2>
