@@ -1,19 +1,19 @@
 <h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat About_Hrishikesh.txt </h3>
 <h2>Hi, I'm Hrishikesh Rane.</h2>
-<p><h2>Working as Software Engineer at <a href = "https://www.xoriant.com/"> Xoriant, Pune .</a>
+<p><h2>Working as Software Engineer at <a href = "https://www.xoriant.com/"> Xoriant, Pune.</a>
 <br>I am DevOps Engineer with experience in CI/CD, Server Maintainance, Automation and Deployment.
 <br>On weekends I try to learn new technologies and work on problem to find solutions using my software skills.</p>
 <p>In mean time I brush up my competitive programming skills. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, <a href="https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>
 <br>My other interests are Problem Solving, Developing, Testing, Automating and Scaling with DevOps. </p> 
-<p> Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> 
-<br>Portfolio - <a href = "https://rphrishi4.github.io/Portfolio/">Click here</a></p>
-Follwing are the certification I comepleted
+<br><h2>Check out My Resume and Portfolio</h2>
+<br>Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> 
+<br>Portfolio - <a href = "https://rphrishi4.github.io/Portfolio/">Click here</a>
+Follwing are the certifications I completed
 <br>Microsoft Certified Azure Fundamentals AZ-900 - <a href = "https://www.credly.com/badges/56aa6941-fb60-4b17-8e29-f92fbfb9bddf/public_url">Click here</a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56aa6941-fb60-4b17-8e29-f92fbfb9bddf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <br>Microsoft Certified Azure AI Fundamentals AI-900 - <a href = "https://www.credly.com/badges/c470b9b1-8e09-4d71-b8cd-efcdcf4f4644/public_url">Click here</a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c470b9b1-8e09-4d71-b8cd-efcdcf4f4644" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <br>Microsoft Certified Azure Data Fundamentals DP-900 - <a href = "https://www.credly.com/badges/9d8f2233-3222-439d-b830-c445188cb593/public_url">Click here</a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9d8f2233-3222-439d-b830-c445188cb593" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </h2>
 
 <h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
