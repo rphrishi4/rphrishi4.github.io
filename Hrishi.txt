@@ -1,13 +1,13 @@
 <h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat About_Hrishikesh.txt </h3>
 <h2>Hi, I'm Hrishikesh Rane.</h2>
-<p><h2>Working as Software Engineer at <a href = "https://www.xoriant.com/"> Xoriant, Pune.</a>
+<p><h2>Working as Software Engineer at <a href = "https://www.cornerstoneondemand.com/"> Cornerstone OnDemand, Pune.</a>
 <br>I am a Developer with experience in Developement, Analyzing, Debugging resolving violations and optimizing code. 
-<br>along with Python Automation, Server Maintainance and CI/CD using Azure Devops.
+<br>Along with Python Automation, Server Maintainance and CI/CD using Azure Devops.
 <br>On weekends I try to learn new technologies and work on problem to find solutions using my software skills.</p>
 <p>In mean time I brush up my competitive programming skills. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, <a href="https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>
 <br>My other interests are Problem Solving, Developing, Testing, Automating and Scaling with DevOps. </p> 
 <br><h2>Check out My Resume and Portfolio
-<br>Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> 
+<br>Resume - <a href = "https://drive.google.com/file/d/1LM-R5WFRa9WThEuthF-_GlGm2euQer4g/view?usp=sharing>Click here</a> 
 <br>Portfolio - <a href = "https://rphrishi4.github.io/Portfolio/">Click here</a>
 <br>
 I am Certified by Microsoft as Azure Fundamentalist.
